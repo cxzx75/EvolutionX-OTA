@@ -1,0 +1,23 @@
+{
+  "response": [
+    {
+      "maintainer": "cxzx",
+      "currently_maintained": true,
+      "oem": "Xiaomi",
+      "device": "Redmi Note 10S",
+      "filename": "EvolutionX-15.0-20250628-rosemary-10.7-Vanilla-Unofficial.zip",
+      "download": "https://sourceforge.net/projects/cxzx-builds/files/rosemary/EvolutionX/10.7/2025.06.28/EvolutionX-15.0-20250628-rosemary-10.7-Vanilla-Unofficial.zip/download",
+      "timestamp": 1751103879,
+      "md5": "a3f95f63bea7fad4a5a6aba2044c9f60",
+      "sha256": "4f4b5cb12600caba3a91ba86198dcfe39e78b6fc9c0f2d11b96383b415f50e28",
+      "size": 1241317866,
+      "version": "10.7",
+      "buildtype": "userdebug",
+      "forum": "",
+      "firmware": "",
+      "paypal": "",
+      "github": "",
+      "sourceforge": ""
+    }
+  ]
+}
