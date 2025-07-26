@@ -1,2 +1,6 @@
+===== 2025-07-26 =====
+- Fixed the issue where some users would get their valid password rejected on the lockscreen
+- Fixed BT calling bug
+
 ===== 2025-06-28 =====
  - Initial Evolution X 10.7
