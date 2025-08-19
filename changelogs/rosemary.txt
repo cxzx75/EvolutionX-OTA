@@ -1,6 +1,10 @@
+===== 2025-08-18 =====
+ - Evolution X 10.8
+ - August security patch
+
 ===== 2025-07-26 =====
-- Fixed the issue where some users would get their valid password rejected on the lockscreen
-- Fixed BT calling bug
+ - Fixed the issue where some users would get their valid password rejected on the lockscreen
+ - Fixed BT calling bug
 
 ===== 2025-06-28 =====
  - Initial Evolution X 10.7
