@@ -1,3 +1,12 @@
+===== 2025-09-04 =====
+Kernel changes:
+ - Updated kernel to 4.14.356-openela-rc1
+ - Disabled Mali debug and other debug bloat
+
+ROM changes:
+ - PixelPropsUtils: Switch recent Pixel props and tensor codes to P10
+ - Define missing TARGET_HEALTH_CHARGING_CONTROL related configs
+
 ===== 2025-08-18 =====
  - Evolution X 10.8
  - August security patch
