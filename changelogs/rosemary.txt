@@ -1,3 +1,13 @@
+===== 2025-09-13 =====
+ROM version: Evolution X 10.9  
+Security patch: September 2025
+
+ROM changes:
+ - Updated audio policy configuration from V14.0.17.0
+
+Kernel changes:
+ - Backported and enabled UFFD GC
+
 ===== 2025-09-07 =====
  - Evolution X 10.9
  - September security patch
