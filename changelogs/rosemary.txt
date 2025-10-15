@@ -1,35 +1,11 @@
-===== 2025-09-13 =====
-ROM version: Evolution X 10.9  
-Security patch: September 2025
+===== 2025-10-15 =====
+ROM version: 11.3
+Security patch: October 2025
 
 ROM changes:
- - Updated audio policy configuration from V14.0.17.0
+ - Android 16 initial release
+ - Fixed audio glitches on secret models
 
 Kernel changes:
- - Backported and enabled UFFD GC
-
-===== 2025-09-07 =====
- - Evolution X 10.9
- - September security patch
- - PixelPropsUtils: Update fingerprints to September 2025 release
- - Use audio_policy_volumes.xml from AOSP
-
-===== 2025-09-04 =====
-Kernel changes:
- - Updated kernel to 4.14.356-openela-rc1
- - Disabled Mali debug and other debug bloat
-
-ROM changes:
- - PixelPropsUtils: Switch recent Pixel props and tensor codes to P10
- - Define missing TARGET_HEALTH_CHARGING_CONTROL related configs
-
-===== 2025-08-18 =====
- - Evolution X 10.8
- - August security patch
-
-===== 2025-07-26 =====
- - Fixed the issue where some users would get their valid password rejected on the lockscreen
- - Fixed BT calling bug
-
-===== 2025-06-28 =====
- - Initial Evolution X 10.7
+ - Backported and enabled EROFS and USB NCM
+ - Fixed CVE-2023-20624
