@@ -1,3 +1,15 @@
+===== 2025-11-15 =====
+ROM version: 11.4.1
+Security patch: November 2025
+
+ROM changes:
+ - Updated to 11.4.1
+ - November 2025 security patch
+ - Linked Audio HAL against V33 libstagefright_foundation
+
+Kernel changes:
+ - drivers/power/supply: Updated drivers
+
 ===== 2025-10-15 =====
 ROM version: 11.3
 Security patch: October 2025
