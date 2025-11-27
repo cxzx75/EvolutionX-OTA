@@ -1,3 +1,13 @@
+===== 2025-11-27 =====
+ROM version: 11.4.1
+Security patch: November 2025
+
+ROM changes:
+ - Fixed ringtone not playing through connected headsets
+
+Kernel changes:
+ - Silenced some logspam
+
 ===== 2025-11-15 =====
 ROM version: 11.4.1
 Security patch: November 2025
