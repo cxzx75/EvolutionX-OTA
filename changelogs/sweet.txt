@@ -1,0 +1,5 @@
+===== 2026-02-19 =====
+ROM version: 11.6.1
+Security patch: February 2026
+
+ - Android 16 QPR2 initial release

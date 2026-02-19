@@ -1,0 +1,24 @@
+{
+  "response": [
+    {
+      "maintainer": "cxzx",
+      "currently_maintained": true,
+      "oem": "Xiaomi",
+      "device": "Redmi Note 10 Pro",
+      "filename": "EvolutionX-16.0-20260219-sweet-11.6.1-Vanilla-Unofficial.zip",
+      "download": "https://sourceforge.net/projects/cxzx-builds/files/sweet/EvolutionX/11.6.1/2026.02.19/EvolutionX-16.0-20260219-sweet-11.6.1-Vanilla-Unofficial.zip/download",
+      "timestamp": 1771523037,
+      "md5": "b936b5b4896776522d39d3df49106fae",
+      "sha256": "8490a79a33c29b19d10fa51d17be6c8230380aac69fa9ff971b050ac8c718a87",
+      "size": 1781155640,
+      "version": "11.6.1",
+      "buildtype": "userdebug",
+      "forum": "",
+      "firmware": "",
+      "paypal": "",
+      "github": "",
+      "sourceforge": ""
+    }
+  ]
+}
+
