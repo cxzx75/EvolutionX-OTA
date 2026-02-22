@@ -1,3 +1,13 @@
+===== 2026-02-22 =====
+ROM version: 11.6.1
+Security patch: February 2026
+
+ROM changes:
+ - Switched build type to user
+
+Kernel changes:
+ - None
+
 ===== 2026-02-19 =====
 ROM version: 11.6.1
 Security patch: February 2026
