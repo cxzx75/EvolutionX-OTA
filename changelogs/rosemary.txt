@@ -1,3 +1,17 @@
+===== 2026-04-19 =====
+ROM version: 11.6.3
+Security patch: April 2026
+
+ROM changes:
+ - Updated to 11.6.3
+ - April 2026 security patch
+ - Added Dynamic Bar from AxionOS
+ - Added option to prevent Play Store apps from launching the "Get this app from Play" screen when not installed by the Play Store
+ - Added trickystore port
+
+Kernel changes:
+ - Removed an unneeded change
+
 ===== 2026-03-05 =====
 ROM version: 11.6.2
 Security patch: March 2026
