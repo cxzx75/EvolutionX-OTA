@@ -1,3 +1,16 @@
+===== 2026-05-17 =====
+ROM version: 11.7
+Security patch: May 2026
+
+ROM changes:
+ - Added status bar brightness control
+ - Added sandbox app
+ - Added weather app
+
+Kernel changes:
+ - Added an optional kernel with KernelSU v3.0.0-30-legacy
+ - Fixed USB tethering
+
 ===== 2026-04-19 =====
 ROM version: 11.6.3
 Security patch: April 2026
