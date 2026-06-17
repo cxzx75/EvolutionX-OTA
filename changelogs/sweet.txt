@@ -1,3 +1,16 @@
+===== 2026-06-17 =====
+ROM version: 11.8
+Security patch: June 2026
+
+ROM changes:
+ - Added status bar brightness control
+ - Added sandbox app
+ - Added weather app
+ - Added the ability to add/remove restart functions via toggles
+
+Kernel changes:
+ - Updated to 4.14.357-openela
+
 ===== 2026-04-19 =====
 ROM version: 11.6.3
 Security patch: April 2026
