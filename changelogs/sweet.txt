@@ -1,3 +1,17 @@
+===== 2026-07-12 =====
+ROM version: 11.9
+Security patch: July 2026
+
+ROM changes:
+ - Updated Seedvault
+ - Updated calendar app
+ - Updated gallery app 
+ - Added Ampache support for the music player
+
+Kernel changes:
+ - Updated SUSFS to 2.2.0
+ - Updated KernelSU Next to 3.3.0
+
 ===== 2026-06-17 =====
 ROM version: 11.8
 Security patch: June 2026
